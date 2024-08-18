@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProject\\OOPExercises\\Ex1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanBo.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex1\\Exercise\\CanBo.cs",
+              "RelativeDocumentMoniker": "Exercise\\CanBo.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex1\\Exercise\\CanBo.cs",
+              "RelativeToolTip": "Exercise\\CanBo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:42:27.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex1\\Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise\\Program.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex1\\Exercise\\Program.cs",
+              "RelativeToolTip": "Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:42:03.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

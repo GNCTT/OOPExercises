@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanh\\source\\repos\\Exersice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentManager.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\DocumentManager.cs",
+              "RelativeDocumentMoniker": "Exersice2\\DocumentManager.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\DocumentManager.cs",
+              "RelativeToolTip": "Exersice2\\DocumentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:00:52.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Magazine.cs",
+              "RelativeDocumentMoniker": "Exersice2\\Magazine.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Magazine.cs",
+              "RelativeToolTip": "Exersice2\\Magazine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:58:58.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Paper.cs",
+              "RelativeDocumentMoniker": "Exersice2\\Paper.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Paper.cs",
+              "RelativeToolTip": "Exersice2\\Paper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:55:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Book.cs",
+              "RelativeDocumentMoniker": "Exersice2\\Book.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Book.cs",
+              "RelativeToolTip": "Exersice2\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:51:58.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Document.cs",
+              "RelativeDocumentMoniker": "Exersice2\\Document.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Document.cs",
+              "RelativeToolTip": "Exersice2\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:49:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Program.cs",
+              "RelativeDocumentMoniker": "Exersice2\\Program.cs",
+              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Program.cs",
+              "RelativeToolTip": "Exersice2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:46:57.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
