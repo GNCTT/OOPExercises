@@ -14,7 +14,11 @@ namespace Exercise
 
         public void Add(CanBo canBo)
         {
-            _canBos.Add(canBo);
+            if (canBo != null)
+            {
+                _canBos.Add(canBo);
+                Console.WriteLine("Add {0} Succesfully.", canBo.ToString());
+            }
         }
 
         public void Add(params CanBo[] listCanbo)
@@ -34,7 +38,7 @@ namespace Exercise
                     return canbo;
                 }
             }
-            Console.WriteLine("No Canbo Have Name Like That");
+            Console.WriteLine("No Ofiicer Have Name Like That");
             return null;
         }
 

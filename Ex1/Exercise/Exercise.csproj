@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CanBo.cs" />
     <Compile Include="CongNhan.cs" />
+    <Compile Include="HandleInput.cs" />
     <Compile Include="KySu.cs" />
     <Compile Include="NhanVien.cs" />
     <Compile Include="Program.cs" />
