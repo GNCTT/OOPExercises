@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|D:\\GitHubProject\\OOPExercises\\Ex1\\exercise\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,19 +15,19 @@
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|D:\\GitHubProject\\OOPExercises\\Ex1\\exercise\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\kysu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|D:\\GitHubProject\\OOPExercises\\Ex1\\exercise\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|D:\\GitHubProject\\OOPExercises\\Ex1\\exercise\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\congnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|d:\\githubproject\\oopexercises\\ex1\\exercise\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|D:\\GitHubProject\\OOPExercises\\Ex1\\exercise\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AC86088-DC04-4A16-BBA1-FDF071F66492}|Exercise\\Exercise.csproj|solutionrelative:exercise\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Exercise\\NhanVien.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAowCcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:29:34.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:29:34.05Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Exercise\\KySu.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwC0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:28:42.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:28:42.259Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Exercise\\CongNhan.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAA4wDcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:22:55.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:22:55.372Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "Exercise\\HandleInput.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:18:33.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:18:33.34Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "Exercise\\QuanLyNhanVien.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T17:14:08.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T17:14:08.812Z"
             },
             {
               "$type": "Document",
@@ -115,8 +110,7 @@
               "RelativeToolTip": "Exercise\\CanBo.cs",
               "ViewState": "AQIAABYAAAAAAAAAAADgvxUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T17:42:27.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T17:42:27.705Z"
             },
             {
               "$type": "Document",
@@ -126,7 +120,7 @@
               "RelativeDocumentMoniker": "Exercise\\Program.cs",
               "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex1\\Exercise\\Program.cs",
               "RelativeToolTip": "Exercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:42:03.841Z",
               "EditorCaption": ""

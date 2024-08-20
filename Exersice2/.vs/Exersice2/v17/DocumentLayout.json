@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vanh\\source\\repos\\Exersice2\\",
+  "WorkspaceRootPath": "D:\\GitHubProject\\OOPExercises\\Exersice2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|D:\\GitHubProject\\OOPExercises\\Exersice2\\exersice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|D:\\GitHubProject\\OOPExercises\\Exersice2\\exersice2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|d:\\githubproject\\oopexercises\\exersice2\\exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\documentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|D:\\GitHubProject\\OOPExercises\\Exersice2\\exersice2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|c:\\users\\vanh\\source\\repos\\exersice2\\exersice2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|D:\\GitHubProject\\OOPExercises\\Exersice2\\exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|D:\\GitHubProject\\OOPExercises\\Exersice2\\exersice2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|d:\\githubproject\\oopexercises\\exersice2\\exersice2\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742F091E-AC60-4890-8009-7778760A936C}|Exersice2\\Exersice2.csproj|solutionrelative:exersice2\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +38,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "HandleInput.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\HandleInput.cs",
+              "RelativeDocumentMoniker": "Exersice2\\HandleInput.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\HandleInput.cs",
+              "RelativeToolTip": "Exersice2\\HandleInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T16:58:24.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DocumentManager.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\DocumentManager.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\DocumentManager.cs",
               "RelativeDocumentMoniker": "Exersice2\\DocumentManager.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\DocumentManager.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\DocumentManager.cs",
               "RelativeToolTip": "Exersice2\\DocumentManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T18:00:52.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Magazine.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Magazine.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Magazine.cs",
               "RelativeDocumentMoniker": "Exersice2\\Magazine.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Magazine.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Magazine.cs",
               "RelativeToolTip": "Exersice2\\Magazine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:58:58.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Paper.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Paper.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Paper.cs",
               "RelativeDocumentMoniker": "Exersice2\\Paper.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Paper.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Paper.cs",
               "RelativeToolTip": "Exersice2\\Paper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:55:26.814Z",
               "EditorCaption": ""
@@ -79,37 +96,37 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Book.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Book.cs",
               "RelativeDocumentMoniker": "Exersice2\\Book.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Book.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Book.cs",
               "RelativeToolTip": "Exersice2\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:51:58.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Document.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Document.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Document.cs",
               "RelativeDocumentMoniker": "Exersice2\\Document.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Document.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Document.cs",
               "RelativeToolTip": "Exersice2\\Document.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwCYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:49:30.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Program.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Program.cs",
               "RelativeDocumentMoniker": "Exersice2\\Program.cs",
-              "ToolTip": "C:\\Users\\vanh\\source\\repos\\Exersice2\\Exersice2\\Program.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Exersice2\\Exersice2\\Program.cs",
               "RelativeToolTip": "Exersice2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T17:46:57.466Z",
               "EditorCaption": ""

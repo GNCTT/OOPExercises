@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{742F091E-AC60-4890-8009-7778760A936C}</ProjectGuid>
+    <ProjectGuid>{D2A7A8E5-26C3-4891-A9BC-8AEA35B3DB53}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exersice2</RootNamespace>
-    <AssemblyName>Exersice2</AssemblyName>
+    <RootNamespace>Ex4</RootNamespace>
+    <AssemblyName>Ex4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
-    <Compile Include="Document.cs" />
-    <Compile Include="DocumentManager.cs" />
+    <Compile Include="Family.cs" />
     <Compile Include="HandleInput.cs" />
-    <Compile Include="Magazine.cs" />
-    <Compile Include="Paper.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Town.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

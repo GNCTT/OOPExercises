@@ -1,0 +1,7 @@
+D:\GitHubProject\OOPExercises\Ex4\Ex4\bin\Debug\Ex4.exe.config
+D:\GitHubProject\OOPExercises\Ex4\Ex4\bin\Debug\Ex4.exe
+D:\GitHubProject\OOPExercises\Ex4\Ex4\bin\Debug\Ex4.pdb
+D:\GitHubProject\OOPExercises\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+D:\GitHubProject\OOPExercises\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+D:\GitHubProject\OOPExercises\Ex4\Ex4\obj\Debug\Ex4.exe
+D:\GitHubProject\OOPExercises\Ex4\Ex4\obj\Debug\Ex4.pdb

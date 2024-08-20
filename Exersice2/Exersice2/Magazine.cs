@@ -6,14 +6,34 @@ namespace Exersice2
     {
         private int _publicDay;
 
+        private const string PUBLIC_DAY_INFO = "Public day: ";
+        private const string PUBLIC_DAY_MESSAGE_ERROR = "Invalid day. Please try again";
+
+        public Magazine()
+        {
+        }
+
         public Magazine(int code, string publisher, int releaseNumber, int publicDay) : base(code, publisher, releaseNumber)
         {
             _publicDay = publicDay;
         }
 
-        public override void ShowInfo()
+        public override void GetDataFromInput()
         {
-            Console.WriteLine("This is a Magazine: {0}, PublicDay: {1}", BaseInfo(), _publicDay);
+            base.GetDataFromInput();
+            _publicDay = HandleInput.TypeNumber(PUBLIC_DAY_INFO, PUBLIC_DAY_MESSAGE_ERROR, (n) =>
+            {
+                if (n < 1 || n > 31)
+                {
+                    return false;
+                }
+                return true;
+            });
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + ", " + PUBLIC_DAY_INFO + _publicDay;
         }
 
     }

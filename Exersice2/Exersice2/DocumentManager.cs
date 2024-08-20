@@ -13,6 +13,7 @@ namespace Exersice2
             if (!IsContainSameCode(document.Code))
             {
                 _documents.Add(document);
+                Console.WriteLine("Add document with info: {0} Succesfully!!", document);
                 return;
             }
             Console.WriteLine("Code: {0} is used", document.Code);
@@ -37,14 +38,15 @@ namespace Exersice2
 
         public void ShowDocumentInfo(Document document)
         {
-            document.ShowInfo();
+            Console.WriteLine(document);
         }
 
         public void ShowAllDocuments()
         {
+            Console.WriteLine("List Document: ");
             foreach (var document in _documents)
             {
-                document.ShowInfo();
+                Console.WriteLine(document);
             }
         }
 
