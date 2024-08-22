@@ -7,7 +7,7 @@
     <ProjectGuid>{CAB263CC-C3EE-49B5-9418-355A398D6D6E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ex13</RootNamespace>
-    <AssemblyName>Ex13</AssemblyName>
+    <AssemblyName>Ex1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -18,7 +18,7 @@ namespace Ex15
 
         public void AddDepartment(Department department)
         {
-            _departments.Add(department);
+            //_departments.Add(department);
         }
 
         public void AddPartTimeStudent()

@@ -1,0 +1,7 @@
+D:\GitHubProject\OOPExercises\Ex15\Ex13\obj\Debug\Ex15.csproj.AssemblyReference.cache
+D:\GitHubProject\OOPExercises\Ex15\Ex13\obj\Debug\Ex15.csproj.CoreCompileInputs.cache
+D:\GitHubProject\OOPExercises\Ex15\Ex13\bin\Debug\Ex13.exe.config
+D:\GitHubProject\OOPExercises\Ex15\Ex13\bin\Debug\Ex13.exe
+D:\GitHubProject\OOPExercises\Ex15\Ex13\bin\Debug\Ex13.pdb
+D:\GitHubProject\OOPExercises\Ex15\Ex13\obj\Debug\Ex13.exe
+D:\GitHubProject\OOPExercises\Ex15\Ex13\obj\Debug\Ex13.pdb
