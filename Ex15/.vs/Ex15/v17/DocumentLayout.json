@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProject\\OOPExercises\\Ex15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|d:\\githubproject\\oopexercises\\ex15\\ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\entity\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\entity\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\entity\\fulltimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\entity\\fulltimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|D:\\GitHubProject\\OOPExercises\\Ex15\\ex15\\entity\\parttimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98439E3-C5AA-4B93-B200-B18441834190}|Ex15\\Ex15.csproj|solutionrelative:ex15\\entity\\parttimestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Validator.cs",
+              "RelativeDocumentMoniker": "Ex15\\Validator.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Validator.cs",
+              "RelativeToolTip": "Ex15\\Validator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:22:02.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandleInput.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\HandleInput.cs",
+              "RelativeDocumentMoniker": "Ex15\\HandleInput.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\HandleInput.cs",
+              "RelativeToolTip": "Ex15\\HandleInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:21:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex15\\Program.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Program.cs",
+              "RelativeToolTip": "Ex15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:51:32.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "School.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\School.cs",
+              "RelativeDocumentMoniker": "Ex15\\School.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\School.cs",
+              "RelativeToolTip": "Ex15\\School.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAswKkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T02:04:51.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "Ex15\\Entity\\Student.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Student.cs",
+              "RelativeToolTip": "Ex15\\Entity\\Student.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:55:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Result.cs",
+              "RelativeDocumentMoniker": "Ex15\\Entity\\Result.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Result.cs",
+              "RelativeToolTip": "Ex15\\Entity\\Result.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1sAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:56:30.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartTimeStudent.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\PartTimeStudent.cs",
+              "RelativeDocumentMoniker": "Ex15\\Entity\\PartTimeStudent.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\PartTimeStudent.cs",
+              "RelativeToolTip": "Ex15\\Entity\\PartTimeStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:56:08.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Ex15\\Entity\\Department.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\Department.cs",
+              "RelativeToolTip": "Ex15\\Entity\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvw0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:56:25.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FulltimeStudent.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\FulltimeStudent.cs",
+              "RelativeDocumentMoniker": "Ex15\\Entity\\FulltimeStudent.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex15\\Ex15\\Entity\\FulltimeStudent.cs",
+              "RelativeToolTip": "Ex15\\Entity\\FulltimeStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T01:56:16.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

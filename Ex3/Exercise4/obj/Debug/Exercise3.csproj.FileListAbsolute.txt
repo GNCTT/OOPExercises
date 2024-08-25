@@ -1,0 +1,7 @@
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\bin\Debug\Exercise4.exe.config
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\bin\Debug\Exercise4.exe
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\bin\Debug\Exercise4.pdb
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\obj\Debug\Exercise4.exe
+D:\GitHubProject\OOPExercises\Ex3\Exercise4\obj\Debug\Exercise4.pdb

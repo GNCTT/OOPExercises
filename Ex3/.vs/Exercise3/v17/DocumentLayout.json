@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProject\\OOPExercises\\Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|d:\\githubproject\\oopexercises\\ex3\\exercise4\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\handleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\candidatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\candidatemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\candidategroupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\candidategroupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\candidategroupb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\candidategroupb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|D:\\GitHubProject\\OOPExercises\\Ex3\\exercise4\\candidategroupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BA64C1-0281-497B-A994-9B4487E7E4A2}|Exercise4\\Exercise4.csproj|solutionrelative:exercise4\\candidategroupc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateGroupC.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupC.cs",
+              "RelativeDocumentMoniker": "Exercise4\\CandidateGroupC.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupC.cs",
+              "RelativeToolTip": "Exercise4\\CandidateGroupC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:46:03.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateGroupB.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupB.cs",
+              "RelativeDocumentMoniker": "Exercise4\\CandidateGroupB.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupB.cs",
+              "RelativeToolTip": "Exercise4\\CandidateGroupB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:43:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateGroupA.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupA.cs",
+              "RelativeDocumentMoniker": "Exercise4\\CandidateGroupA.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateGroupA.cs",
+              "RelativeToolTip": "Exercise4\\CandidateGroupA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:36:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandleInput.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\HandleInput.cs",
+              "RelativeDocumentMoniker": "Exercise4\\HandleInput.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\HandleInput.cs",
+              "RelativeToolTip": "Exercise4\\HandleInput.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:58:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateManager.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateManager.cs",
+              "RelativeDocumentMoniker": "Exercise4\\CandidateManager.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\CandidateManager.cs",
+              "RelativeToolTip": "Exercise4\\CandidateManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:47:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\Candidate.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Candidate.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\Candidate.cs",
+              "RelativeToolTip": "Exercise4\\Candidate.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:41:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4\\Program.cs",
+              "ToolTip": "D:\\GitHubProject\\OOPExercises\\Ex3\\Exercise4\\Program.cs",
+              "RelativeToolTip": "Exercise4\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T06:40:52.715Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

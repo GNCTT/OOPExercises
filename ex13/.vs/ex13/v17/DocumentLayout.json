@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\entities\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|c:\\users\\anhnv156\\source\\repos\\ex13\\ex13\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\entities\\fresher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\entities\\fresher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\entities\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\entities\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\exceptions\\phoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\exceptions\\phoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|c:\\users\\anhnv156\\source\\repos\\ex13\\ex13\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\hanleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\hanleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|c:\\users\\anhnv156\\source\\repos\\ex13\\ex13\\exceptions\\leaveblankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\exceptions\\leaveblankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\exceptions\\birthdayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\exceptions\\birthdayexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\exceptions\\emailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\exceptions\\emailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\exceptions\\fullnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1C11C-5C58-413F-9EF1-EE829C9C7BD3}|ex13\\ex13.csproj|solutionrelative:ex13\\exceptions\\fullnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Experience.cs",
+              "RelativeDocumentMoniker": "ex13\\Entities\\Experience.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Experience.cs",
+              "RelativeToolTip": "ex13\\Entities\\Experience.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:59:51.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ex13\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Employee.cs",
+              "RelativeToolTip": "ex13\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:43:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "ex13\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\EmployeeType.cs",
+              "RelativeToolTip": "ex13\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:27:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Validator.cs",
+              "RelativeDocumentMoniker": "ex13\\Validator.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Validator.cs",
+              "RelativeToolTip": "ex13\\Validator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:49:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Program.cs",
+              "RelativeDocumentMoniker": "ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Program.cs",
+              "RelativeToolTip": "ex13\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:39:19.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HanleInput.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\HanleInput.cs",
+              "RelativeDocumentMoniker": "ex13\\HanleInput.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\HanleInput.cs",
+              "RelativeToolTip": "ex13\\HanleInput.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:45:36.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fresher.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Fresher.cs",
+              "RelativeDocumentMoniker": "ex13\\Entities\\Fresher.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Fresher.cs",
+              "RelativeToolTip": "ex13\\Entities\\Fresher.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:08:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Intern.cs",
+              "RelativeDocumentMoniker": "ex13\\Entities\\Intern.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Intern.cs",
+              "RelativeToolTip": "ex13\\Entities\\Intern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:08:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneException.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\PhoneException.cs",
+              "RelativeDocumentMoniker": "ex13\\Exceptions\\PhoneException.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\PhoneException.cs",
+              "RelativeToolTip": "ex13\\Exceptions\\PhoneException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:42:50.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Certificate.cs",
+              "RelativeDocumentMoniker": "ex13\\Entities\\Certificate.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Entities\\Certificate.cs",
+              "RelativeToolTip": "ex13\\Entities\\Certificate.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:56:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "ex13\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\EmployeeManager.cs",
+              "RelativeToolTip": "ex13\\EmployeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T03:01:45.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaveBlankException.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\LeaveBlankException.cs",
+              "RelativeDocumentMoniker": "ex13\\Exceptions\\LeaveBlankException.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\LeaveBlankException.cs",
+              "RelativeToolTip": "ex13\\Exceptions\\LeaveBlankException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T06:37:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BirthDayException.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\BirthDayException.cs",
+              "RelativeDocumentMoniker": "ex13\\Exceptions\\BirthDayException.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\BirthDayException.cs",
+              "RelativeToolTip": "ex13\\Exceptions\\BirthDayException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:34:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailException.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\EmailException.cs",
+              "RelativeDocumentMoniker": "ex13\\Exceptions\\EmailException.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\EmailException.cs",
+              "RelativeToolTip": "ex13\\Exceptions\\EmailException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:43:06.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FullNameException.cs",
+              "DocumentMoniker": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\FullNameException.cs",
+              "RelativeDocumentMoniker": "ex13\\Exceptions\\FullNameException.cs",
+              "ToolTip": "C:\\Users\\AnhNV156\\source\\repos\\ex13\\ex13\\Exceptions\\FullNameException.cs",
+              "RelativeToolTip": "ex13\\Exceptions\\FullNameException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:55:29.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

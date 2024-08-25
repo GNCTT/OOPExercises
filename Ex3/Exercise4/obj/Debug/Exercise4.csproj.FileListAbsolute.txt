@@ -1,0 +1,7 @@
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.AssemblyReference.cache
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\AnhNV156\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
